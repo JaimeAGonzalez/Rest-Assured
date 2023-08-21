@@ -38,3 +38,6 @@ jsonschema.net.
 3. Implement schema validation on the chosen response to ensure that it matches the
 defined schema.
 
+## Exceptions
+Discount percentage attribute is not working during the POST and PUT. Then, in schema validator was not taken into consideration.
+
